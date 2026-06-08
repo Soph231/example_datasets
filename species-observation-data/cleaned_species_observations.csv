@@ -1,0 +1,101 @@
+Plot_ID,Site,Region,Latitude,Longitude,Species,Count,Survey_Date,Observer,Habitat_Type
+P01,Riverbend Reserve,Canterbury,-44.39,171.24,Coprosma robusta,14,2026-02-16,J. Wilson,Riparian
+P02,Urban Park,Canterbury,-44.4,171.25,Juncus edgariae,13,2026-01-15,A. Brown,Modified grassland
+P23,Hilltop Reserve,Otago,-45.87,170.5,Carex secta,13,2026-03-22,A. Brown,Grassland
+P11,Urban Park,Canterbury,-44.4,171.25,Poa cita,14,2026-02-16,A. Brown,Modified grassland
+P04,Urban Park,Canterbury,-44.4,171.25,Schoenoplectus tabernaemontani,8,2026-02-26,A. Brown,Modified grassland
+P13,Riverbend Reserve,Canterbury,-44.39,171.24,Festuca rubra,8,2026-01-22,L. Chen,Riparian
+P23,Hilltop Reserve,Otago,-45.87,170.5,Carex secta,,2026-01-20,A. Brown,Grassland
+P13,Riverbend Reserve,Canterbury,-44.39,171.24,Typha orientalis,6,2026-02-16,L. Chen,Riparian
+P22,Hilltop Reserve,Otago,-45.87,170.5,Unknown,22,2026-02-15,J. Wilson,Grassland
+P06,Hilltop Reserve,Otago,-45.87,170.5,Cortaderia selloana,9,2026-03-12,J. Wilson,Grassland
+P25,Forest Margin,West Coast,-42.45,171.21,Coprosma robusta,18,2026-01-19,S. Taylor,Forest edge
+P07,Riverbend Reserve,Canterbury,-44.39,171.24,Coprosma robusta,7,2026-02-21,S. Taylor,Riparian
+P05,Lake Edge Walk,Southland,-46.15,168.35,Agrostis capillaris,6,2026-02-12,J. Wilson,Wetland
+P12,Urban Park,Canterbury,-44.4,171.25,Poa cita,8,2026-02-09,A. Brown,wet land
+P21,Coastal Dune Track,Northland,-35.92,174.45,Austroderia richardii,7,2026-02-01,S. Taylor,Dune
+P17,Estuary Boardwalk,Wellington,-41.31,174.79,Festuca rubra,12,2026-02-13,A. Brown,Saltmarsh
+P25,Lake Edge Walk,Southland,-46.15,168.35,Juncus edgariae,10,2026-02-24,A. Brown,Wetland
+P17,Coastal Dune Track,Northland,-35.92,174.45,Juncus edgariae,1,2026-01-25,J. Wilson,Dune
+P05,Hilltop Reserve,Otago,-45.87,170.5,Austroderia richardii,22,2026-02-28,J. Wilson,Grassland
+P16,Forest Margin,West Coast,-42.45,171.21,Juncus edgariae,26,2026-01-14,L. Chen,Forest edge
+P08,Waimate Wetland,Canterbury,-44.73,171.05,Juncus edgariae,10,2026-01-22,J. Wilson,Wetland
+P22,Coastal Dune Track,Northland,-35.92,174.45,Festuca rubra,16,13/02/2026,J. Wilson,Dune
+P18,Hilltop Reserve,Otago,-45.87,170.5,Agrostis capillaris,2,2026-02-06,L. Chen,Grassland
+P04,Estuary Boardwalk,Wellington,-41.31,174.79,Coprosma robusta,13,2026-02-12,J. Wilson,Saltmarsh
+P01,Hilltop Reserve,Otago,-45.87,170.5,Agrostis capillaris,8,2026-01-21,A. Brown,Grassland
+P17,Riverbend Reserve,Canterbury,-44.39,171.24,Phormium tenax,9,2026-02-11,M. Singh,Riparian
+P08,Riverbend Reserve,Canterbury,-44.39,171.24,Austroderia richardii,9,2026-03-13,S. Taylor,Saltmarsh
+P14,Urban Park,Canterbury,-44.4,171.25,Schoenoplectus tabernaemontani,10,2026-03-12,A. Brown,Modified grassland
+P24,Urban Park,Canterbury,-44.4,171.25,Austroderia richardii,15,2026-02-24,M. Singh,Modified grassland
+P05,Estuary Boardwalk,Wellington,-41.31,174.79,Poa cita,10,2026-03-07,A. Brown,Saltmarsh
+P02,Riverbend Reserve,Canterbury,-44.39,171.24,Schoenoplectus tabernaemontani,15,2026-03-22,,Riparian
+P16,Urban Park,Canterbury,-44.4,171.25,Coprosma robusta,23,2026-03-14,M. Singh,Modified grassland
+P13,Waimate Wetland,Canterbury,-44.73,171.05,Trifolium repens,13,2026-02-14,S. Taylor,Wetland
+P05,Estuary Boardwalk,Wellington,-41.31,174.79,Phormium tenax,12,2026-02-05,J. Wilson,Saltmarsh
+P02,Forest Margin,West Coast,-42.45,171.21,Plantago lanceolata,0,2026-01-18,J. Wilson,Forest edge
+P17,Waimate Wetland,Canterbury,-44.73,171.05,Schoenoplectus tabernaemontani,16,2026-01-22,M. Singh,Wetland
+P19,Riverbend Reserve,Canterbury,-44.39,171.24,Plantago lanceolata,2,2026-02-12,S. Taylor,Riparian
+P09,Forest Margin,West Coast,-42.45,171.21,Holcus lanatus,10,2026-02-07,S. Taylor,Forest edge
+P15,Lake Edge Walk,Southland,-46.15,168.35,Trifolium repens,12,2026-02-21,S. Taylor,Wetland
+P03,Riverbend Reserve,Canterbury,-44.39,171.24,Coprosma robusta,7,2026-03-21,L. Chen,Riparian
+P12,Hilltop Reserve,Otago,-45.87,170.5,Poa cita,2,2026-02-17,L. Chen,Grassland
+P22,Waimate Wetland,Canterbury,-44.73,171.05,Phormium tenax,15,2026-03-23,M. Singh,Wetland
+P04,Riverbend Reserve,Canterbury,-44.39,171.24,Poa cita,10,2026-03-23,L. Chen,Riparian
+P17,Lake Edge Walk,Southland,-46.15,168.35,Phormium tenax,24,2026-03-15,A. Brown,Wetland
+P02,Lake Edge Walk,Southland,-46.15,168.35,Leptospermum scoparium,13,2026-01-12,L. Chen,Wetland
+P18,Estuary Boardwalk,Wellington,-41.31,174.79,Festuca rubra,,2026-03-07,M. Singh,Saltmarsh
+P12,Waimate Wetland,Canterbury,-44.73,171.05,Poa cita,9,2026-03-23,L. Chen,Wetland
+P07,Forest Margin,West Coast,-42.45,171.21,Holcus lanatus,23,2026-02-12,S. Taylor,Forest edge
+P08,Coastal Dune Track,Northland,-35.92,174.45,Austroderia richardii,18,2026-02-01,A. Brown,Dune
+P14,Forest Margin,West Coast,-42.45,171.21,Phormium tenax,18,2026-02-12,S. Taylor,grass land
+P08,Estuary Boardwalk,Wellington,-41.31,174.79,Schoenoplectus tabernaemontani,18,2026-02-06,M. Singh,Saltmarsh
+P22,Waimate Wetland,Canterbury,-44.73,171.05,Cortaderia selloana,4,2026-02-05,L. Chen,Wetland
+P22,Urban Park,Canterbury,-44.4,171.25,Leptospermum scoparium,15,2026-03-21,L. Chen,Modified grassland
+P02,Lake Edge Walk,Southland,-46.15,168.35,Plantago lanceolata,0,2026-01-25,L. Chen,Wetland
+P13,Riverbend Reserve,Canterbury,-44.39,171.24,Phormium tenax,20,2026/03/02,J. Wilson,Riparian
+P12,Hilltop Reserve,Otago,-45.87,170.5,Juncus edgariae,29,2026-03-08,J. Wilson,Grassland
+P24,Riverbend Reserve,Canterbury,-44.39,171.24,Festuca rubra,9,2026-02-19,S. Taylor,Riparian
+P07,Coastal Dune Track,Northland,-35.92,174.45,Holcus lanatus,23,2026-03-06,M. Singh,Dune
+P13,Lake Edge Walk,Southland,-46.15,168.35,Phormium tenax,18,2026-03-23,S. Taylor,Wetland
+P15,Forest Margin,West Coast,-42.45,171.21,Typha orientalis,7,2026-03-09,M. Singh,Forest edge
+P17,Lake Edge Walk,Southland,-46.15,168.35,Juncus edgariae,17,2026-02-23,L. Chen,Wetland
+P05,Hilltop Reserve,Otago,-45.87,170.5,Carex secta,12,2026-01-15,A. Brown,Grassland
+P21,Coastal Dune Track,Northland,-35.92,174.45,Agrostis capillaris,8,2026-02-05,M. Singh,Modified grassland
+P25,Waimate Wetland,Canterbury,-44.73,171.05,Austroderia richardii,7,2026-01-25,J. Wilson,Wetland
+P18,Waimate Wetland,Canterbury,-44.73,171.05,Trifolium repens,17,2026-02-12,S. Taylor,Wetland
+P25,Forest Margin,West Coast,-42.45,171.21,Plantago lanceolata,18,2026-03-09,S. Taylor,Forest edge
+P06,Estuary Boardwalk,Wellington,-41.31,174.79,Typha orientalis,11,2026-03-13,L. Chen,Saltmarsh
+P21,Estuary Boardwalk,Wellington,-41.31,174.79,Phormium tenax,-1,2026-02-11,M. Singh,Saltmarsh
+P11,Forest Margin,West Coast,-42.45,171.21,Juncus edgariae,15,2026-03-22,M. Singh,Forest edge
+P14,Riverbend Reserve,Canterbury,-44.39,171.24,Leptospermum scoparium,4,2026-03-05,M. Singh,Riparian
+P25,Urban Park,Canterbury,-44.4,171.25,Schoenoplectus tabernaemontani,19,2026-01-14,S. Taylor,Modified grassland
+P10,Forest Margin,West Coast,-42.45,171.21,Schoenoplectus tabernaemontani,23,2026-03-02,J. Wilson,Forest edge
+P16,Hilltop Reserve,Otago,-45.87,170.5,Phormium tenax,10,2026-02-09,L. Chen,Grassland
+P15,Coastal Dune Track,Northland,-35.92,174.45,Plantago lanceolata,0,2026-01-28,J. Wilson,Dune
+P03,Waimate Wetland,Canterbury,-44.73,171.05,Poa cita,15,2026-03-07,L. Chen,Wetland
+p08,Forest Margin,West Coast,-42.45,171.21,Leptospermum scoparium,3,2026-03-11,L. Chen,Forest edge
+P03,Lake Edge Walk,Southland,-46.15,168.35,Carex secta,11,2026-03-13,L. Chen,Wetland
+P25,Riverbend Reserve,Canterbury,-44.39,171.24,Austroderia richardii,17,2026-01-17,A. Brown,Riparian
+P08,Coastal Dune Track,Northland,-35.92,174.45,Typha orientalis,7,2026-01-28,M. Singh,Dune
+P25,Lake Edge Walk,Southland,-46.15,168.35,Poa cita,0,2026-02-28,A. Brown,Wetland
+P04,Lake Edge Walk,Southland,-46.15,168.35,Leptospermum scoparium,7,2026-01-15,S. Taylor,Wetland
+P03,Hilltop Reserve,Otago,-45.87,170.5,Juncus edgariae,9,2026-02-12,J. Wilson,Grassland
+P12,Waimate Wetland,Canterbury,-44.73,171.05,Cortaderia selloana,10,2026-03-21,L. Chen,Wetland
+P16,Urban Park,Canterbury,-44.4,171.25,Cortaderia selloana,23,2026-01-25,S. Taylor,Modified grassland
+P06,Urban Park,Canterbury,-44.4,171.25,Holcus lanatus,10,,J. Wilson,Modified grassland
+P14,Estuary Boardwalk,Wellington,-41.31,174.79,Leptospermum scoparium,20,2026-02-15,A. Brown,Saltmarsh
+P08,Estuary Boardwalk,Wellington,-41.31,174.79,Plantago lanceolata,5,2026-03-12,A. Brown,Saltmarsh
+P06,Forest Margin,West Coast,-42.45,171.21,Coprosma robusta,8,2026-03-15,L. Chen,Forest edge
+P18,Lake Edge Walk,Southland,-46.15,168.35,Festuca rubra,15,2026-01-13,S. Taylor,Salt marsh
+P23,Hilltop Reserve,Otago,-45.87,170.5,Holcus lanatus,9,2026-03-13,A. Brown,Grassland
+P08,Lake Edge Walk,Southland,-46.15,168.35,Agrostis capillaris,12,2026-03-04,L. Chen,Wetland
+P14,Forest Margin,West Coast,-42.45,171.21,Leptospermum scoparium,6,2026-03-23,L. Chen,Forest edge
+P04,Hilltop Reserve,Otago,-45.87,170.5,Leptospermum scoparium,19,2026-02-05,M. Singh,Grassland
+P24,Hilltop Reserve,Otago,-45.87,170.5,Phormium tenax,,2026-03-14,J. Wilson,Grassland
+P04,Lake Edge Walk,Southland,-46.15,168.35,Phormium tenax,12,2026-02-05,A. Brown,Wetland
+P09,Coastal Dune Track,Northland,-35.92,174.45,Carex secta,0,2026-01-17,M. Singh,Dune
+P01,Riverbend Reserve,Canterbury,-44.39,171.24,Typha orientalis,4,2026-02-17,A. Brown,Riparian
+P04,Estuary Boardwalk,Wellington,-41.31,174.79,Unkown,1,2026-01-20,A. Brown,Saltmarsh
+P19,Coastal Dune Track,Northland,-35.92,174.45,Juncus edgariae,16,2026-02-19,S. Taylor,Dune
+P25,Hilltop Reserve,Otago,-45.87,170.5,Cortaderia selloana,3,2026-03-19,J. Wilson,Grassland
