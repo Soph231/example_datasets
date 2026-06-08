@@ -24,8 +24,8 @@ The following files are currently available:
 
 File|Description
 ---|---
-raw_observations.csv|Original dataset containing inconsistencies and missing values.
-cleaned_observations.csv|Cleaned dataset with standardised values and geographical information.
+raw_species_observations.csv|Original dataset containing inconsistencies and missing values.
+cleaned_species_observations.csv|Cleaned dataset with standardised values and geographical information.
 species_abundance.csv|Summary table showing the number of observations recorded for each species.
 species_richness_by_region.csv|Summary table showing the number of unique species recorded in each region.
 species_richness_by_site.csv|Summary table showing the number of unique species recorded at each survey site together with their coordinates.
