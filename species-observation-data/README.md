@@ -40,9 +40,9 @@ The datasets are hypothetical and do not represent actual survey data.
 
 Articles and tutorials using these datasets are available at:
 
-- <https://sophiabrauning.com/visualising-species-counts-in-google-sheets/>
-- [website](https://sophiabrauning.com/mapping-species-richness-in-datawrapper/ "Go to article")
-- https://sophiabrauning.com/exploring-species-richness-by-site/
+- [Visualising species abundance in google sheets] (<https://sophiabrauning.com/visualising-species-counts-in-google-sheets/>)
+- [Choropleth map with Datawrapper](https://sophiabrauning.com/mapping-species-richness-in-datawrapper/ "Go to article")
+- [Symbol map with Datawrapper] (https://sophiabrauning.com/exploring-species-richness-by-site/)
 
 ## License
 
